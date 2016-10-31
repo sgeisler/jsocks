@@ -1,3 +1,6 @@
+Module cloned from: https://github.com/ravn/jsocks
+
+
 This project provides the revised source of the
 http://sourceforge.net/projects/jsocks/ project as 
 required by the LGPL.
@@ -16,7 +19,7 @@ launch configuration using slf4j-simple has
 been included, which also allows for creating
 runnable jars from inside Eclipse 3.5+
 
-/ravn - 2009-09-07¨
+/ravn - 2009-09-07ï¿½
 
 Mavenized.  
 
